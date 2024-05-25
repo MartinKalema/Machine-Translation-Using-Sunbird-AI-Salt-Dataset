@@ -3,4 +3,4 @@ Can you achieve BLEU Scores better than we got in the SALT paper? https://openre
 - English to Luganda - 26.7
 - Luganda to English - 33.7
 
-# Let's gooo
+# Let's go.
